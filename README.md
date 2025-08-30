@@ -59,7 +59,3 @@ A codebook was used to decode categorical variables and classify FBG levels into
 This analysis contributes to evidence-based public health strategies by highlighting key risk factors for diabetes. The findings can support targeted awareness campaigns, lifestyle interventions, and resource allocation in both rural and urban settings.
 
 ---
-
-
-
-Would you like me to help you write the Python scripts for each section, or prepare a README file for your GitHub repository next?
